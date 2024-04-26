@@ -1,4 +1,4 @@
-import netflix from "../Assets/Projects/netflix.png";
+import image_netflix from "../Assets/Projects/image_netflix.png";
 
 import gitfire from "../Assets/Projects/gitfire.png";
 
@@ -6,7 +6,7 @@ export const data = [
   {
     id: 1,
     name: "NetflixGPT",
-    image: netflix,
+    image: image_netflix,
     github: "https://github.com/vijay466/NetflixGPT",
     live: "https://netflix-gpt-3.netlify.app/",
   },
