@@ -8,7 +8,7 @@ export const data = [
     name: "NetflixGPT",
     image: image_netflix,
     github: "https://github.com/vijay466/NetflixGPT",
-    live: "https://netflix-gpt-3.netlify.app/",
+    live: "http://netflixgpt.s3-website.eu-north-1.amazonaws.com",
   },
 
   {
